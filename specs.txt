@@ -1,0 +1,12 @@
+==================================================
+GPU Name:            NVIDIA GeForce RTX 2080 Ti
+Compute Capability:  7.5
+Global Memory:       10.57 GB
+SM Count:            68
+Max SM Clock:        2100.0 MHz
+Max Memory Clock:    7000.0 MHz
+Memory Bus Width:    352-bit
+Peak Memory B/W:     616.00 GB/s
+FP32 Cores / SM:     64 (Total: 4352)
+Peak FP32 Compute:   18.28 TFLOPs/s
+==================================================
