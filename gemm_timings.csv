@@ -1,2 +1,9 @@
 Kernel,ElapsedSeconds,GFLOPS
-1_naive,0.000006016,114227850.313
+1_naive,5.636622070,121.916
+2_kernel_global_mem_coalesce,0.478232056,1436.948
+3_kernel_shared_mem_blocking,0.370013702,1857.214
+4_kernel_1D_blocktiling,0.204659073,3357.754
+5_kernel_2D_blocktiling,0.100292801,6851.885
+6_kernel_vectorize,0.094361603,7282.568
+9_kernel_autotuned,0.094105598,7302.379
+10_kernel_warptiling,0.073906273,9298.193
